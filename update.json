@@ -1,0 +1,22 @@
+{
+  "loader": {
+    "versionCode": 1,
+    "versionName": "1.0.0",
+    "downloadUrl": "https://raw.githubusercontent.com/SameerAroraYT/Elite/main/Loader.apk",
+    "changelog": "Initial loader release"
+  },
+  "plugin": {
+    "versionCode": 1,
+    "versionName": "1.0.10",
+    "downloadUrl": "https://raw.githubusercontent.com/SameerAroraYT/Elite/main/plugin.apk",
+    "changelog": "Additional Resources Update"
+  },
+  "lib": {
+    "versionCode": 1,
+    "versionName": "1.0.0",
+    "downloadUrl": "https://raw.githubusercontent.com/SameerAroraYT/Elite/main/file.zip",
+    "changelog": "Security Patch Update 1.0.0"
+  },
+  "maintenance": false,
+  "maintenanceMessage": "System is currently undergoing scheduled maintenance. Please check back later."
+}
